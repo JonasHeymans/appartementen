@@ -20,5 +20,5 @@ instances = Downloader.read_pickle('full')
 
 df = main.merge(instances, on='id').reset_index(drop=True )
 Downloader.save_pickle(df, 'all')
-df.to_csv('all.csv')
+df.to_csv('files/all.csv')
 

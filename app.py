@@ -18,7 +18,16 @@ logger = logging.getLogger('basic')
 main = Downloader.read_pickle('file')
 instances = Downloader.read_pickle('full')
 
-df = main.merge(instances, on='id').reset_index(drop=True )
-Downloader.save_pickle(df, 'all')
-df.to_csv('files/all.csv')
+
+
+
+urls = Downloader.get_url_list('full', range(1,143))
+print(urls)
+
+df = Downloader.get_df(urls, 'full')
+
+print(df)
+
+
+
 

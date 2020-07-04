@@ -1,0 +1,125 @@
+<osm version="0.6" generator="CGImap 0.8.2 (17565 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<relation id="1902793" visible="true" version="28" changeset="83500306" timestamp="2020-04-14T00:45:29Z" user="بشير إبراهيمي" uid="9838430">
+<member type="way" ref="250367982" role="outer"/>
+<member type="way" ref="250367978" role="outer"/>
+<member type="way" ref="85706642" role="outer"/>
+<member type="way" ref="85706639" role="outer"/>
+<member type="way" ref="85701850" role="outer"/>
+<member type="way" ref="85701573" role="outer"/>
+<member type="way" ref="86161611" role="outer"/>
+<member type="way" ref="86160822" role="outer"/>
+<member type="way" ref="85695256" role="outer"/>
+<member type="way" ref="250981505" role="outer"/>
+<member type="way" ref="86199653" role="outer"/>
+<member type="way" ref="86201085" role="outer"/>
+<member type="way" ref="250981509" role="outer"/>
+<member type="way" ref="86201348" role="outer"/>
+<member type="way" ref="86205115" role="outer"/>
+<member type="way" ref="255713895" role="outer"/>
+<member type="way" ref="262820115" role="outer"/>
+<member type="way" ref="86205114" role="outer"/>
+<member type="way" ref="30959233" role="outer"/>
+<member type="way" ref="96566169" role="outer"/>
+<member type="way" ref="217844106" role="outer"/>
+<member type="way" ref="217844108" role="outer"/>
+<member type="way" ref="30957790" role="outer"/>
+<member type="way" ref="30957585" role="outer"/>
+<member type="way" ref="29034057" role="outer"/>
+<member type="way" ref="29053123" role="outer"/>
+<member type="way" ref="29034076" role="outer"/>
+<member type="way" ref="29051531" role="outer"/>
+<member type="way" ref="29051603" role="outer"/>
+<member type="way" ref="50837738" role="outer"/>
+<member type="way" ref="27249797" role="outer"/>
+<member type="way" ref="29054499" role="outer"/>
+<member type="way" ref="293445846" role="outer"/>
+<member type="way" ref="29054203" role="outer"/>
+<member type="way" ref="48648904" role="outer"/>
+<member type="way" ref="29005215" role="outer"/>
+<member type="way" ref="48647126" role="outer"/>
+<member type="way" ref="29005237" role="outer"/>
+<member type="way" ref="26278354" role="outer"/>
+<member type="way" ref="29010021" role="outer"/>
+<member type="way" ref="291650489" role="outer"/>
+<member type="way" ref="29010644" role="outer"/>
+<member type="way" ref="28964364" role="outer"/>
+<member type="way" ref="48650572" role="outer"/>
+<member type="way" ref="29258036" role="outer"/>
+<member type="way" ref="251320363" role="outer"/>
+<member type="way" ref="251249720" role="outer"/>
+<member type="way" ref="251392649" role="outer"/>
+<member type="way" ref="28965035" role="outer"/>
+<member type="way" ref="30183736" role="outer"/>
+<member type="way" ref="251249721" role="outer"/>
+<member type="way" ref="164467181" role="outer"/>
+<member type="way" ref="164461495" role="outer"/>
+<member type="way" ref="42783443" role="outer"/>
+<member type="way" ref="164461494" role="outer"/>
+<member type="way" ref="197527811" role="outer"/>
+<member type="way" ref="42792714" role="outer"/>
+<member type="way" ref="42792713" role="outer"/>
+<member type="way" ref="42792717" role="outer"/>
+<member type="way" ref="62069388" role="outer"/>
+<member type="way" ref="197527812" role="outer"/>
+<member type="way" ref="42792712" role="outer"/>
+<member type="way" ref="98321229" role="outer"/>
+<member type="way" ref="154529657" role="outer"/>
+<member type="way" ref="42798961" role="outer"/>
+<member type="way" ref="62069806" role="outer"/>
+<member type="way" ref="86307034" role="outer"/>
+<member type="way" ref="42801507" role="outer"/>
+<member type="way" ref="202352599" role="outer"/>
+<member type="way" ref="250865204" role="outer"/>
+<member type="way" ref="86301079" role="outer"/>
+<member type="node" ref="1765433658" role="admin_centre"/>
+<member type="relation" ref="58545" role="subarea"/>
+<member type="relation" ref="59518" role="subarea"/>
+<member type="relation" ref="76278" role="subarea"/>
+<member type="relation" ref="58860" role="subarea"/>
+<member type="relation" ref="59501" role="subarea"/>
+<member type="relation" ref="408294" role="subarea"/>
+<member type="relation" ref="1277957" role="subarea"/>
+<member type="relation" ref="58565" role="subarea"/>
+<member type="relation" ref="964003" role="subarea"/>
+<member type="relation" ref="58376" role="subarea"/>
+<member type="relation" ref="58642" role="subarea"/>
+<member type="relation" ref="1284337" role="subarea"/>
+<member type="relation" ref="61255" role="subarea"/>
+<member type="relation" ref="58564" role="subarea"/>
+<member type="relation" ref="58656" role="subarea"/>
+<member type="relation" ref="1277900" role="subarea"/>
+<member type="relation" ref="58641" role="subarea"/>
+<member type="relation" ref="58333" role="subarea"/>
+<member type="relation" ref="1283355" role="subarea"/>
+<member type="relation" ref="58824" role="subarea"/>
+<member type="relation" ref="58364" role="subarea"/>
+<member type="relation" ref="1283358" role="subarea"/>
+<member type="relation" ref="408297" role="subarea"/>
+<member type="relation" ref="60973" role="subarea"/>
+<member type="relation" ref="310363" role="subarea"/>
+<member type="relation" ref="310381" role="subarea"/>
+<member type="relation" ref="1284088" role="subarea"/>
+<member type="relation" ref="1277901" role="subarea"/>
+<member type="relation" ref="1283354" role="subarea"/>
+<member type="relation" ref="60889" role="subarea"/>
+<tag k="admin_level" v="7"/>
+<tag k="alt_name:ar" v="أنتفيرب"/>
+<tag k="boundary" v="administrative"/>
+<tag k="name" v="Antwerpen"/>
+<tag k="name:ar" v="أنتويرب"/>
+<tag k="name:de" v="Antwerpen"/>
+<tag k="name:en" v="Antwerp"/>
+<tag k="name:fr" v="Anvers"/>
+<tag k="name:nl" v="Antwerpen"/>
+<tag k="name:pl" v="Antwerpia"/>
+<tag k="name:ru" v="Антверпен"/>
+<tag k="name:tzl" v="Anviarça"/>
+<tag k="official_name" v="Arrondissement Antwerpen"/>
+<tag k="official_name:ar" v="دائرة أنتويرب"/>
+<tag k="official_name:nl" v="Arrondissement Antwerpen"/>
+<tag k="ref:INS" v="11000"/>
+<tag k="type" v="boundary"/>
+<tag k="wikidata" v="Q90895"/>
+<tag k="wikipedia" v="nl:Arrondissement Antwerpen"/>
+</relation>
+</osm>
